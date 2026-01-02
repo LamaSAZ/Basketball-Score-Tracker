@@ -1,2 +1,2 @@
-# local-score-counter
-simple basketball score counter built with html, css and js
+# score-tracker
+simple basketball score tracker built with html, css and js
